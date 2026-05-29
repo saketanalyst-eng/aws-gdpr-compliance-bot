@@ -1,0 +1,6 @@
+{
+  "total_documents": 10003,
+  "total_chunks": 295465,
+  "embedding_dimension": 384,
+  "faiss_index_size_mb": 453.834285
+}
